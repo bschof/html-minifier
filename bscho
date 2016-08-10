@@ -1,0 +1,11 @@
+<?php include ('./header3.php'); ?><div id = "left"><p><?php include ('./header2.php'); ?></div>
+<div id = "center"><h1>Property For sale</h1><p><h2><a href="/cus/cus1/" target="_blank"><img src="cus/cus1/facade.jpg" alt="property of the week"><p>Property of the week.</h2></a><p></p>
+<div id = "head"><li><a href="http://webhouses.co.uk/web/search.php">Search</a></li></div><h2>To find more properties</h2>
+<div id = "head"><li><a href="http://webhouses.co.uk/lettings/index.php">Lets</a></li></div>
+<h2>To see our lets</h2>Webhouses allows sellers, or letters to advertise there property for sale, or to rent.</p>
+<p> Webhouses are in need of more properties for sale, or to let. If you are thinking of selling, or letting your property then why not advertise here. 
+Just send us your details and we will soon have your property on the market place. <p></p>
+<div id = "head"><li><a href="http://webhouses.co.uk/profile.php">Selling</a></li></div><h2>To enter your property for sale</h2>
+<div id = "head"><li><a href="http://webhouses.co.uk/agentsads.php">Agentads</a></li></div>
+<h2>To enter your agents freead</h2><p></p></div><div id = "right"><p><?php  include('./headlines.php'); ?></div>
+<div id = "footer"><?php  include('./footer.php'); ?></div></body></html>
